@@ -4,7 +4,7 @@ Python scripts for producing artistic image transformations
 
 ## V1
 
-Requires imagemagick, lxml, PIL, OpenCV, numpy, matplotlib and potrace. Too much, I know.  Later versions will almost certainly require lxml and potrace (I like the convenience of manipulating SVG), although I hope to settle on one image processing library (OpenCV, most likely).
+Requires imagemagick, lxml, PIL, OpenCV, numpy, matplotlib and potrace. And batik (how could I forget it?).  Too much, I know.  Later versions will almost certainly require lxml, potrace and batik (I like the convenience of manipulating SVG), although I hope to settle on one image processing library (OpenCV, most likely).
 
 USAGE: ./linoleumBlocksV1.py pathToInputImage pathToConfig
 
