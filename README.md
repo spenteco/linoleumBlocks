@@ -18,3 +18,4 @@ To run the script using the sample images and configs:
 
 > ./linoleumBlocksV1.py images/Jefferson_Memorial_rear_view_IMG_4733.JPG config/jefferson.py
 
+I owe a debt of inspiration and example to [Greg Borenstein](http://gregborenstein.com/), who used a similar process for his 2014 nanogenmo entry, available [here](https://github.com/dariusk/NaNoGenMo-2014/issues/70) and [here](http://gregborenstein.com/comics/generated_detective/1/).
